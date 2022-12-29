@@ -1,0 +1,5 @@
+*[Bb][Uu][iI][Ll][dD]*
+/.idea
+/.vscode/*
+!/.vscode/launch.json
+!/.vscode/tasks.json
